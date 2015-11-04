@@ -1,2 +1,12 @@
 Hello gitu
 Nice to see u on cloud!!
+$ git config --global user.name "JobinGit"
+$ git config --global user.email "jobinjose3005@gmail.com"
+$  mkdir ~/MyTrial
+$ cd ~/MyTrial
+$ git init
+$ git status
+$ git add Myfile.txt
+$ git remote add origin https://github.com/JobinGit/MyTrial.git
+$ git push origin master
+$ git pull origin master
